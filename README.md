@@ -10,7 +10,8 @@
 |15331391   |金东俊   |策划、开发|
 |14331116   |张剑     |美工|
 
-沟通渠道：QQ群、线下
+沟通渠道：QQ群、线下  
+看板：[Github Projects](https://github.com/ARJumping/ARJumping/projects/1)
 
 ---
 
