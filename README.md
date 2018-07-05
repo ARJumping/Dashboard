@@ -55,6 +55,7 @@
 ## 六、演示地址
 
 在线视频地址：   
+https://www.bilibili.com/video/av26222020/
 
 GIF：  
 ![ARJumping-1](/img/gif/1.gif)  
