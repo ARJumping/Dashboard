@@ -59,8 +59,6 @@ https://www.bilibili.com/video/av26222020/
 
 GIF：  
 ![ARJumping-1](/img/gif/1.gif)  
-![ARJumping-2](/img/gif/2.gif)  
-![ARJumping-3](/img/gif/3.gif)  
 
 ---
 
