@@ -55,7 +55,7 @@
 ## 六、演示地址
 
 在线视频地址：   
-https://www.bilibili.com/video/av26222020/
+[https://www.bilibili.com/video/av26222020/](https://www.bilibili.com/video/av26222020/)
 
 GIF：  
 ![ARJumping-1](/img/gif/1.gif)  
@@ -65,7 +65,8 @@ GIF：
 ## 七、下载地址
 
 安卓APK + Unity项目包 + 识别图文档 + 视频演示：  
-链接：https://pan.baidu.com/s/1w9y-fZWGpE9W0fckCooTEg 密码：7z1m
+链接：[https://pan.baidu.com/s/1w9y-fZWGpE9W0fckCooTEg](https://pan.baidu.com/s/1w9y-fZWGpE9W0fckCooTEg)  
+密码：7z1m
 
 ---
 
