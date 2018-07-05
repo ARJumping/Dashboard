@@ -52,15 +52,14 @@
 
 ---
 
-## 六、演示地址
+## 六、演示地址 && Download
+
+安卓APK + Unity项目包 + 识别图文档 + 视频演示：
+链接：https://pan.baidu.com/s/1w9y-fZWGpE9W0fckCooTEg 密码：7z1m
 
 ---
 
-## 七、Download
-
----
-
-## 八、设计文档
+## 七、设计文档
 
 
 
