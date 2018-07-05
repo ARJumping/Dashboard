@@ -52,14 +52,26 @@
 
 ---
 
-## 六、演示地址 && Download
+## 六、演示地址
+
+在线视频地址：   
+
+GIF：  
+![ARJumping-1](/image/gif/1.gif)  
+![ARJumping-2](/image/gif/2.gif)  
+![ARJumping-3](/image/gif/3.gif)  
+
+---
+
+## 七、下载地址
 
 安卓APK + Unity项目包 + 识别图文档 + 视频演示：  
 链接：https://pan.baidu.com/s/1w9y-fZWGpE9W0fckCooTEg 密码：7z1m
 
 ---
 
-## 七、设计文档
+## 八、设计文档
 
+[设计文档](https://github.com/ARJumping/Dashboard/blob/master/post/%E7%AD%96%E5%88%92%E6%96%87%E6%A1%A3.md)
 
 
