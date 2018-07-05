@@ -19,7 +19,7 @@
 ---
 
 ## 三、游戏内容
-![游戏画面](https://github.com/ARJumping/Dashboard/blob/master/img./%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2.jpg)
+![游戏画面](/img/游戏画面.jpg)
 
 这是一个AR模式的平台跳跃游戏
 玩家扮演需要逃出城市的特工Bob，通过一栋大楼逃往另一栋大楼，玩家的目的就是到达终点，最终逃离城市
@@ -57,9 +57,9 @@
 在线视频地址：   
 
 GIF：  
-![ARJumping-1](/image/gif/1.gif)  
-![ARJumping-2](/image/gif/2.gif)  
-![ARJumping-3](/image/gif/3.gif)  
+![ARJumping-1](/img/gif/1.gif)  
+![ARJumping-2](/img/gif/2.gif)  
+![ARJumping-3](/img/gif/3.gif)  
 
 ---
 
